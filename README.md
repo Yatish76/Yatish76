@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yatish Patil, 3rd year Electrical Engineering UG at IIT Bombay
-- 👀 I’m interested in Digital Design and Computer Architecture
+- 👋 Hi, I’m Yatish Patil, 4th year Electrical Engineering UG at IIT Bombay
+- 👀 I’m interested in Digital Design, Analog Electronics, and Computer Architecture
 - 🌱 I’m currently learning Hardware Description Languages like VHDL and Verilog
 
 
